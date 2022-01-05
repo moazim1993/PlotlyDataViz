@@ -9,3 +9,5 @@ Following this tutorial:
  
  Will add to this repo later with another tutorial
   - https://www.youtube.com/watch?v=GGL6U0k8WYA&t=7s
+
+added html for easy view
